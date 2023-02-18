@@ -80,6 +80,10 @@ button {
     border-radius: 60px;
 }
 
+button:hover {
+    background: #000000;
+}
+
 .section__view {
     display: flex;
     align-items: center;
